@@ -12,7 +12,16 @@ Nuestro proyecto se centra en la creación de un sitio web de comercio electrón
 - Información Detallada del Producto: Cada abrigo en nuestra tienda en línea viene acompañado de imágenes de alta resolución y descripciones detalladas.
 
 ## Configuracion del proyecto
+- Clonar el Repositorio: Para comenzar, clona este repositorio en tu sistema local utilizando el siguiente comando:
 
+```bash
+  git clone https://github.com/DAR1776/Entrega-Final-AR-Store
+```
+- Instalación de Dependencias: Accede al directorio del proyecto e instala las dependencias necesarias 
+```bash
+  cd e-commerce-abrigos-sublimados 
+  npm install
+```
 ## Uso del Sistema
 Una vez que hayas configurado el proyecto, los usuarios podrán acceder a la tienda en línea, explorar el catálogo de abrigos sublimados, personalizar su elección y completar el proceso de compra.
 
