@@ -1,0 +1,18 @@
+#itemCount{
+    display: flex;
+    justify-content: center;
+    margin: 5px ;
+}
+
+#itemCount button{
+    margin: 15px;
+    width: 50px;
+    font-size: larger;
+    color: #181818;
+    border: solid 1px #181818;
+}
+
+#itemCount button:hover{
+    transform: scale(1.1);
+    transition: transform .4s ease;
+}

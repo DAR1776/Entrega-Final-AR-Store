@@ -1,0 +1,8 @@
+#cartWidget{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #181818;
+    font-size: 32px;
+}
+

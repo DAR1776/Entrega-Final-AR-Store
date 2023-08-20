@@ -1,0 +1,12 @@
+#brand{
+    display: flex;
+    font-size: 150%;
+    font-weight: lighter;
+    color: #181818;
+    transform: scale(1);
+    transition:transform .4s ease ;
+}
+#brand:hover{
+    transform: scale(1.2);
+    transition: transform 0.4s ease;
+}

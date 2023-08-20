@@ -1,0 +1,28 @@
+#cartContainer{
+    display: flex;
+    flex-direction: column;
+    min-height: 600px;
+    background-color:#dbdbcf ;
+    padding-left: 20px;
+}
+
+#cartInfo{
+    display: flex;
+    flex-direction: column;
+    min-height: 450px;
+    justify-content: center;
+
+}
+
+#cartContainer button{
+    width: 200px;
+    height: 40px;
+    margin: 30px;
+    border: solid 1px #181818;
+    font-size:medium;
+}
+
+#cartContainer button:hover{
+    transform: scale(1.1);
+    transition: transform .4s ease;
+}

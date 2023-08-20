@@ -1,0 +1,36 @@
+#itemDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 320px;
+    margin: 10% 0 10% 0;
+    background-color: #f3f3f1;
+}
+
+#itemDetail img{
+    width: 80%;
+}
+
+#itemDetail h2, p{
+    margin: 7px;
+    padding: 10px;
+    text-align: justify;
+}
+
+
+#addCart{
+    height:50px;
+    padding: 0 20px 0 20px;
+    font-size: large;
+    color: #181818;
+    border: solid 1px #181818;
+    font-weight: bolder;
+    font-size:medium;
+}
+
+#addCart:hover{
+    transform: scale(1.1);
+    transition: transform .4s ease;
+}
